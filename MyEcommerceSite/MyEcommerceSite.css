@@ -1,0 +1,18 @@
+#myproducts{
+    /* grid-row: 1 / 4; */
+    float: left;
+    margin: 35px;
+    border: 2px solid black;
+}
+
+.images{
+    height: 250px;
+    width: 250px;
+    /* grid-row: 1 / 4; */
+}
+#addbtn{
+    border-radius: 30px;
+    margin-left: 80px;
+    background-color: rgb(23, 99, 36);
+    color: white;
+}
